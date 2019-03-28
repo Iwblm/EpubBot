@@ -1,4 +1,3 @@
-import requests
 import telebot
 
 from envs import TELEGRAM_TOKEN
